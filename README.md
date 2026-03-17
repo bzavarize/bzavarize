@@ -28,4 +28,25 @@ Sou um profissional de TI em transição para Cibersegurança, focado em operaç
 ---
 
 ### 🚀 Projetos em Destaque
-Em construção
+# 🛡️ PyLog Defender - Analisador de Logs de Segurança
+
+[![Python](https://img.shields.io/badge/Python-3.14+-blue.svg)](https://www.python.org/)
+[![Cybersecurity](https://img.shields.io/badge/Focus-Blue%20Team-red.svg)]()
+
+Repositório oficial: [https://github.com/bzavarize/py-log-analyzer](https://github.com/bzavarize/py-log-analyzer)
+
+## 📝 Descrição
+Este projeto automatiza a análise de arquivos de log (`.csv`) para identificar tentativas de ataques de **Brute Force**. Desenvolvido com foco em operações de **Blue Team**, o script processa grandes volumes de dados e isola IPs suspeitos com base em falhas consecutivas de autenticação.
+
+## 🚀 Como Executar
+1. Instale as dependências: `pip install -r requirements.txt`
+2. Coloque seu arquivo de log na pasta `/data`
+3. Execute: `python src/log_analyzer.py`
+
+## 🛠️ Tecnologias Utilizadas
+* **Python**: Lógica principal e automação.
+* **Pandas**: Processamento e filtragem de DataFrames.
+* **Git/GitHub**: Controle de versão e documentação.
+
+---
+Desenvolvido por **[Bruno Zavarize](https://github.com/bzavarize)** como parte da Pós-Graduação em Defensive Cyber Security.
