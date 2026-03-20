@@ -49,4 +49,30 @@ Este projeto automatiza a análise de arquivos de log (`.csv`) para identificar 
 * **Git/GitHub**: Controle de versão e documentação.
 
 ---
+
+
+# 🛡️ Blue Team Sentinel: O **Blue Team Sentinel** é uma ferramenta web desenvolvida em Python (Flask) para automatizar tarefas críticas de defesa cibernética. 
+
+Repositório oficial: [https://github.com/bzavarize/blue-team-sentinel](https://github.com/bzavarize/blue-team-sentinel)
+
+### 🚀 Funcionalidades
+- **Vulnerability Scan:** Integração com Nmap (Vulners) para detecção de CVEs.
+- **SIEM Correlation:** Simulação de detecção de ataques em tempo real.
+- **DFIR Triage:** Coleta de artefatos forenses locais.
+- **PDF Reporting:** Geração de relatórios profissionais com disclaimer de responsabilidade.
+
+### 🛠️ Tecnologias
+- Python 3.x
+- Flask (Web Framework)
+- Nmap (Network Scanner)
+- FPDF2 (PDF Generation)
+
+### 📖 Como usar
+1. Clone o repositório.
+2. Instale as dependências: `pip install -r requirements.txt`.
+3. Certifique-se de ter o Nmap instalado no PATH do sistema.
+4. Execute `python app.py` e acesse `http://localhost:5000`.
+
+---
+
 Desenvolvido por **[Bruno Zavarize](https://github.com/bzavarize)** como parte da Pós-Graduação em Defensive Cyber Security.
