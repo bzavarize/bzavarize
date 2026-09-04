@@ -1,4 +1,4 @@
-# Olá, eu sou Bruno! 👋
+# Olá, eu sou o Bruno! 👋
 
 ### 🛡️ Analista de Segurança Defensiva (Blue Team) | Python Security Developer
 
