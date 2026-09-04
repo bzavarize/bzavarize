@@ -68,9 +68,9 @@ Repositório oficial: [https://github.com/bzavarize/blue-team-sentinel](https://
 - FPDF2 (PDF Generation)
 
 ### 📖 Como usar
-1. Clone o repositório.
+1. Clone o repositorio.
 2. Instale as dependências: `pip install -r requirements.txt`.
-3. Certifique-se de ter o Nmap instalado no PATH do sistema.
+3. Certifique se de ter o Nmap instalado no PATH do sistema.
 4. Execute `python app.py` e acesse `http://localhost:5000`.
 
 ---
